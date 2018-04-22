@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:orientation="vertical"
+    android:background="@layout/item_bk">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sync_inst"
+        android:textSize="16sp"
+        android:padding="10dp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#ffffff"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            android:text="Email: "/>
+        <EditText android:id="@+id/email"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:layout_alignParentRight="true"
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:text="Password :"/>
+        <EditText android:id="@+id/passwd"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:completionHint="Password"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/check_create"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Create Account"
+            android:textColor="#261E14"
+            android:background="@layout/title_bk"
+            android:textSize="16sp"/>
+        <Button
+            android:id="@+id/check_sign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/check_create"
+            android:textColor="#261E14"
+            android:text="Sign in"
+            android:background="@layout/title_bk"
+            android:textSize="16sp"/>
+    </RelativeLayout>
+</LinearLayout>

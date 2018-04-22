@@ -1,0 +1,329 @@
+Fruits
+ apples
+ apricots
+ avocados
+ bananas
+ berries
+ cherries
+ grapefruit
+ grapes
+ kiwi
+ lemons
+ limes
+ melons
+ nectarines
+ oranges
+ papaya
+ peaches
+ pears
+ plums
+ pomegranate
+ watermelon
+Vegetables
+ artichokes
+ asparagus
+ basil
+ beets
+ broccoli
+ cabbage
+ cauliflower
+ carrots
+ celery
+ chiles
+ chives
+ cilantro
+ corn
+ cucumbers
+ eggplant
+ garlic cloves
+ green onions
+ lettuce
+ onions
+ peppers
+ potatoes
+ salad greens
+ spinach
+ sprouts
+ squash
+ tomatoes
+ zucchini
+Breakfast
+ cereal
+ grits
+ oatmeal
+ pancake mix
+Meat
+ bacon
+ chicken
+ deli meat
+ ground beef
+ ground turkey
+ ham
+ hot dogs
+ pork
+ sausage
+ steak
+ turkey
+Seafood
+ catfish
+ cod
+ crab
+ halibut
+ lobster
+ oysters
+ salmon
+ shrimp
+ tilapia
+ tuna
+Frozen
+ chicken bites
+ desserts
+ fish sticks
+ fruit
+ ice
+ ice cream
+ ice pops
+ juice
+ meat
+ pie shells
+ pizza
+ pot pies
+ potatoes
+ tv dinners
+ vegetables
+ veggieburger
+ waffles
+Baby
+ baby cereal
+ baby food
+ diapers
+ diaper cream
+ formula
+ wipes
+Pets
+ cat food
+ cat litter
+ dog food
+ shampoo
+ treats
+ flea treatment
+Baking
+ baking powder
+ baking soda
+ bread crumbs
+ cake decor
+ cake mix
+ canned milk
+ chocolate chips
+ cocoa
+ cornmeal
+ cornstarch
+ flour
+ food coloring
+ frosting
+ muffin mix
+ pie crust
+ shortening
+ sugar (brown)
+ sugar (powdered)
+ sugar
+ yeast
+Snacks
+ candy
+ cookies
+ crackers
+ dried fruit
+ fruit snacks
+ gelatin
+ graham crackers
+ granola bars
+ gum
+ nuts
+ popcorn
+ potato chips
+ pretzels
+ pudding
+ raisins
+ seeds
+ tortilla chips
+Bakery
+ bagels
+ bread
+ donuts
+ cake
+ cookies
+ croutons
+ dinner rolls
+ hamburger buns
+ hot dog buns
+ muffins
+ pastries
+ pie
+ pita bread
+ tortillas (corn)
+ tortillas (flour)
+Pasta&Rice
+ brown rice
+ burger helper
+ couscous
+ elbow macaroni
+ lasagna
+ mac & cheese
+ noodle mix
+ rice mix
+ spaghetti
+ white rice
+Cans&Jars
+ applesauce
+ baked beans
+ black beans
+ broth
+ bullion cubes
+ canned fruit
+ canned vegetables
+ carrots
+ chili
+ corn
+ creamed corn
+ jam/jelly
+ mushrooms
+ olives (green)
+ olives (black)
+ pasta
+ pasta sauce
+ peanut butter
+ pickles
+ pie filling
+ soup
+Refrigerated
+ biscuits
+ butter
+ cheddar cheese
+ cream
+ cream cheese
+ dip
+ eggs
+ egg substitute
+ feta cheese
+ half & half
+ jack cheese
+ milk
+ mozarella
+ processed cheese
+ salsa
+ shredded cheese
+ sour cream
+ swiss cheese
+ whipped cream
+ yogurt
+Seasoning
+ basil
+ bay leaves
+ bbq seasoning
+ cinnamon
+ cloves
+ cumin
+ curry
+ dill
+ garlic powder
+ garlic salt
+ gravy mix
+ Italian seasoning
+ marinade
+ meat tenderizer
+ oregano
+ paprika
+ pepper
+ poppy seed
+ red pepper
+ sage
+ salt
+ seasoned salt
+ soup mix
+ vanilla extract
+Sauces&Condiments
+ bbq sauce
+ catsup
+ cocktail sauce
+ cooking spray
+ honey
+ horseradish
+ hot sauce
+ lemon juice
+ mayonnaise
+ mustard
+ olive oil
+ relish
+ salad dressing
+ salsa
+ soy sauce
+ steak sauce
+ sweet & sour
+ teriyaki
+ vegetable oil
+ vinegar
+Drinks
+ beer
+ champagne
+ club soda
+ coffee
+ diet soft drinks
+ energy drinks
+ juice
+ liquor
+ soft drinks
+ tea
+ wine
+Paper Products
+ aluminum foil
+ coffee filters
+ cups
+ garbage bags
+ napkins
+ paper plates
+ paper towels
+ plastic bags
+ plastic cutlery
+ plastic wrap
+ straws
+ waxed paper
+Cleaning
+ air freshener
+ bleach
+ dish soap
+ dishwasher detergent
+ fabric softener
+ floor cleaner
+ glass spray
+ laundry soap
+ polish
+ sponges
+ vacuum bags
+Personal Care
+ bath soap
+ bug repellant
+ conditioner
+ cotton swabs
+ dental floss
+ deodorant
+ facial tissue
+ family planning
+ feminine products
+ hair spray
+ hand soap
+ lip care
+ lotion
+ makeup
+ mouthwash
+ razors/blades
+ shampoo
+ shaving cream
+ sunscreen
+ toilet tissue
+ toothbrush
+ toothpaste
+Misc. Items
+ batteries
+ charcoal
+ greeting cards
+

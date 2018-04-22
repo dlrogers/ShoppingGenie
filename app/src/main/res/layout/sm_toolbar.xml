@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tToolbar"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@layout/item_bk"
+    android:gravity="top|start"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+    <android.support.v7.widget.ActionMenuView
+        android:id="@+id/amvMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="?attr/actionBarSize"/>
+    <Button
+        android:id="@+id/add"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/white_plus"/>
+    <ImageView
+        android:id="@+id/mic"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_gravity="right|fill_vertical"
+        android:src="@drawable/ic_btn_speak_now"/>
+    <Button
+        android:id="@+id/sync"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:background="@drawable/stat_notify_sync"/>
+</android.support.v7.widget.Toolbar>

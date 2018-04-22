@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Shopping Genie</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_heading"><strong><b>List</b></strong></string>
+    <string name="items_heading"><strong><b>Suggestions</b></strong></string>
+    <string-array name="frequencies">
+        <item>BiWeekly</item>
+        <item>Weekly</item>
+        <item>BiMonthly</item>
+        <item>Monthly</item>
+        <item>Every 2nd month</item>
+        <item>Every 3rd month</item>
+        <item>One Time Buy</item>
+    </string-array>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="title">Edit Item</string>
+    <string name="food_cats"><b><i>Food Catagories</i></b></string>
+    <string-array name="cats">
+        <item>"Fresh Vegetables"</item>
+        <item>"Fresh Fruits"</item>
+        <item>"Refrigerated items"</item>
+        <item>"Frozen"</item>
+        <item>"Condiments/Sauces"</item>
+        <item>"Various"</item>
+        <item>"Canned Food"</item>
+        <item>"Spices and Herbs"</item>
+        <item>"Dairy"</item>
+        <item>"Cheese"</item>
+        <item>"Meat"</item>
+        <item>"Seafood"</item>
+        <item>"Beverages"</item>
+        <item>"Baked Goods"</item>
+        <item>"Baking"</item>
+        <item>"Snacks"</item>
+        <item>"Themed meals"</item>
+        <item>"Baby Stuff"</item>
+        <item>""</item>
+    </string-array>
+    <string name="option_dialog_title"><b>New List</b></string>
+    <string name="option_dialog_ok"><b>OK</b></string>
+    <string name="settings_title"><center>Settings</center></string>
+    <string name="sync_inst">In order to use the sync feature, you must either create a new account
+        or sign into an existing account.</string>
+    <string name="registration">Registration</string>
+    <string name="closeDrawer">Close \n (swipe left)</string>
+
+</resources>

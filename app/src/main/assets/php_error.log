@@ -1,0 +1,451 @@
+[27-Apr-2017 16:20:13 UTC] starting reset_action.php
+[27-Apr-2017 16:20:13 UTC] pass1
+[27-Apr-2017 16:20:13 UTC] pass2
+[27-Apr-2017 16:25:49 UTC] starting reset_action.php
+[27-Apr-2017 16:25:49 UTC] pass
+[27-Apr-2017 16:25:49 UTC] pass
+[27-Apr-2017 16:25:49 UTC] ok
+[27-Apr-2017 16:26:15 UTC] starting reset_action.php
+[27-Apr-2017 16:26:15 UTC] pass1
+[27-Apr-2017 16:26:15 UTC] pass2
+[27-Apr-2017 16:26:15 UTC] nok
+[27-Apr-2017 16:28:02 UTC] starting sync
+[27-Apr-2017 16:28:02 UTC] use symdesig_smartlist
+[27-Apr-2017 16:28:02 UTC] email = dlrog@yahoo.com, passwd = f0rspark, list = Groceries
+[27-Apr-2017 16:28:02 UTC] select * from users where email='dlrog@yahoo.com' AND list='Groceries'
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name='cholula'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 1,3, slt = 1493042142, plt = 1493300948, slt-plt = -258806
+[27-Apr-2017 16:28:02 UTC] changing server
+[27-Apr-2017 16:28:02 UTC] UPDATE `T6` SET last_time=1493300948,last_avg=2592000,ratio=3.677855e-03,flags=3 WHERE name='cholula'
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name='phonebatt'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 1,1, slt = 1492188332, plt = 1492188332, slt-plt = 0
+[27-Apr-2017 16:28:02 UTC] dates same
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name='lime selzer 	water'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 0,0, slt = 1491249804, plt = 1491249804, slt-plt = 0
+[27-Apr-2017 16:28:02 UTC] dates same
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name='Tartar sauce'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 0,0, slt = 1492878233, plt = 1492878233, slt-plt = 0
+[27-Apr-2017 16:28:02 UTC] dates same
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name='eggs'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 0,0, slt = 1492877168, plt = 1493310482, slt-plt = -433314
+[27-Apr-2017 16:28:02 UTC] changing server
+[27-Apr-2017 16:28:02 UTC] UPDATE `T6` SET last_time=1493310482,last_avg=10279,ratio=9.728573e-05,flags=0 WHERE name='eggs'
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name=' pancake mix'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 0,0, slt = 1488223007, plt = 1488223007, slt-plt = 0
+[27-Apr-2017 16:28:02 UTC] dates same
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name=' lemons'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 0,0, slt = 1492877149, plt = 1492877149, slt-plt = 0
+[27-Apr-2017 16:28:02 UTC] dates same
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name=' milk'
+[27-Apr-2017 16:28:02 UTC] From Server: flags = 0,0, slt = 1492464605, plt = 1492464605, slt-plt = 0
+[27-Apr-2017 16:28:02 UTC] dates same
+[27-Apr-2017 16:28:02 UTC]  
+
+[27-Apr-2017 16:28:02 UTC] SELECT * from `T6` where name='cat food'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1486342337, plt = 1486342337, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='distilled water'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1485550499, plt = 1485550499, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='bread'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877163, plt = 1492877163, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=' jam/jelly'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1485277963, plt = 1485277963, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='tomatoes'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1489616252, plt = 1493304751, slt-plt = -3688499
+[27-Apr-2017 16:28:03 UTC] changing server
+[27-Apr-2017 16:28:03 UTC] UPDATE `T6` SET last_time=1493304751,last_avg=128752,ratio=4.450416e-02,flags=0 WHERE name='tomatoes'
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Lettuce'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877165, plt = 1492877165, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='facial tissue'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490627253, plt = 1490627253, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='oatmeal'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877179, plt = 1492877179, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=' apples'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492464158, plt = 1492464158, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=' bananas'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490647780, plt = 1490647780, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='bottled water'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492116449, plt = 1492116449, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='decaf tea'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490647901, plt = 1490647901, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=' ice cream'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877459, plt = 1492877459, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='rasberries'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490896687, plt = 1490896687, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=' yogurt'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490833091, plt = 1490833091, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='tea'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877160, plt = 1492877160, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='dunkin donuts coffee'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877151, plt = 1492877151, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='kefir'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877170, plt = 1492877170, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='earth balance'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492464659, plt = 1492464659, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='OJ'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492464660, plt = 1492464660, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='vegibergers'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1488124209, plt = 1488124209, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='dijonaise'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1488124437, plt = 1488124437, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='avocados'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1491603126, plt = 1491603126, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='oranges'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492464168, plt = 1492464168, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='catlitter'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 1,0, slt = 1492957316, plt = 1493300943, slt-plt = -343627
+[27-Apr-2017 16:28:03 UTC] changing server
+[27-Apr-2017 16:28:03 UTC] UPDATE `T6` SET last_time=1493300943,last_avg=285849,ratio=3.336727e-02,flags=0 WHERE name='catlitter'
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='hotdogs'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492803615, plt = 1492803615, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='raisins'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1488915537, plt = 1488915537, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Hairdye'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1489265175, plt = 1489265175, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='chocolate'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1493154014, plt = 1493154014, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='pomegranate'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1489265180, plt = 1489265180, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='HairConditioner'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490037679, plt = 1490037679, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='toothpaste'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1489617243, plt = 1489617243, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='granola'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490647813, plt = 1490647813, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='honey'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490801971, plt = 1490801971, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='floss'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1491750418, plt = 1491750418, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='soups'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877467, plt = 1492877467, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Blueberries'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877153, plt = 1492116447, slt-plt = 760706
+[27-Apr-2017 16:28:03 UTC] changing phone flags = 0
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='blueberries'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877153, plt = 1492877153, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='cookies'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492704890, plt = 1492704890, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='englishmuffin'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877490, plt = 1492877490, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='asparagus'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877157, plt = 1492877157, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='cookies'
+[27-Apr-2017 16:28:03 UTC] PHP Notice:  Undefined offset: 2 in /home/symdesig/public_html/php/sync.php on line 78
+[27-Apr-2017 16:28:03 UTC] PHP Notice:  Undefined offset: 1 in /home/symdesig/public_html/php/sync.php on line 81
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492704890, plt = 0, slt-plt = 1492704890
+[27-Apr-2017 16:28:03 UTC] changing phone flags = 0
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=''
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1493154021, plt = 1493154012, slt-plt = 9
+[27-Apr-2017 16:28:03 UTC] changing phone flags = 0
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='cucumbers'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877139, plt = 1492877139, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='mushrooms'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877174, plt = 1492877174, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Sugar'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877166, plt = 1492877166, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=' facial tissue'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490627253, plt = 1490627253, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='chicken'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1492877143, plt = 1492877143, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='bread crumbs'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 1,0, slt = 1492877252, plt = 1493305280, slt-plt = -428028
+[27-Apr-2017 16:28:03 UTC] changing server
+[27-Apr-2017 16:28:03 UTC] UPDATE `T6` SET last_time=1493305280,last_avg=396620,ratio=1.311331e-02,flags=0 WHERE name='bread crumbs'
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Cholula'
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 3,0, slt = 1493300948, plt = 1493305289, slt-plt = -4341
+[27-Apr-2017 16:28:03 UTC] changing server
+[27-Apr-2017 16:28:03 UTC] UPDATE `T6` SET last_time=1493305289,last_avg=845359,ratio=6.141769e-03,flags=0 WHERE name='Cholula'
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='granola'
+[27-Apr-2017 16:28:03 UTC] PHP Notice:  Undefined offset: 2 in /home/symdesig/public_html/php/sync.php on line 78
+[27-Apr-2017 16:28:03 UTC] PHP Notice:  Undefined offset: 1 in /home/symdesig/public_html/php/sync.php on line 81
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1490647813, plt = 0, slt-plt = 1490647813
+[27-Apr-2017 16:28:03 UTC] changing phone flags = 0
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name=''
+[27-Apr-2017 16:28:03 UTC] From Server: flags = 0,0, slt = 1493154021, plt = 1493154021, slt-plt = 0
+[27-Apr-2017 16:28:03 UTC] dates same
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Cheese'
+[27-Apr-2017 16:28:03 UTC] adding row
+[27-Apr-2017 16:28:03 UTC] INSERT INTO T6 VALUES('Cheese',0,1493305129,78720,6.798781e-02)
+[27-Apr-2017 16:28:03 UTC]  
+
+[27-Apr-2017 16:28:03 UTC] SELECT * from `T6` where name='Green veggies'
+[27-Apr-2017 16:28:03 UTC] adding row
+[27-Apr-2017 16:28:03 UTC] INSERT INTO T6 VALUES('Green veggies',0,1493305120,38504,1.392323e-01)
+[27-Apr-2017 16:28:03 UTC] adding items not on phone
+[27-Apr-2017 16:28:03 UTC] SELECT * FROM `T6`
+[27-Apr-2017 16:28:03 UTC] checking lime selzer 	water
+[27-Apr-2017 16:28:03 UTC] checking Tartar sauce
+[27-Apr-2017 16:28:03 UTC] checking eggs
+[27-Apr-2017 16:28:03 UTC] checking  pancake mix
+[27-Apr-2017 16:28:03 UTC] checking  lemons
+[27-Apr-2017 16:28:03 UTC] checking  milk
+[27-Apr-2017 16:28:03 UTC] checking cereal
+[27-Apr-2017 16:28:03 UTC] Adding cereal
+[27-Apr-2017 16:28:03 UTC] checking cat food
+[27-Apr-2017 16:28:03 UTC] checking baking powder
+[27-Apr-2017 16:28:03 UTC] Adding baking powder
+[27-Apr-2017 16:28:03 UTC] checking beer
+[27-Apr-2017 16:28:03 UTC] Adding beer
+[27-Apr-2017 16:28:03 UTC] checking applesauce
+[27-Apr-2017 16:28:03 UTC] Adding applesauce
+[27-Apr-2017 16:28:03 UTC] checking distilled water
+[27-Apr-2017 16:28:03 UTC] checking bread
+[27-Apr-2017 16:28:03 UTC] checking  jam/jelly
+[27-Apr-2017 16:28:03 UTC] checking cat litter
+[27-Apr-2017 16:28:03 UTC] Adding cat litter
+[27-Apr-2017 16:28:03 UTC] checking tomatoes
+[27-Apr-2017 16:28:03 UTC] checking Lettuce
+[27-Apr-2017 16:28:03 UTC] checking 
+[27-Apr-2017 16:28:03 UTC] checking  facial tissue
+[27-Apr-2017 16:28:03 UTC] checking  eggs
+[27-Apr-2017 16:28:03 UTC] Adding  eggs
+[27-Apr-2017 16:28:03 UTC] checking oatmeal
+[27-Apr-2017 16:28:03 UTC] checking  apples
+[27-Apr-2017 16:28:03 UTC] checking  bananas
+[27-Apr-2017 16:28:03 UTC] checking bottled water
+[27-Apr-2017 16:28:03 UTC] checking blueberries
+[27-Apr-2017 16:28:03 UTC] checking k cups
+[27-Apr-2017 16:28:03 UTC] Adding k cups
+[27-Apr-2017 16:28:03 UTC] checking decaf tea
+[27-Apr-2017 16:28:03 UTC] checking  ice cream
+[27-Apr-2017 16:28:03 UTC] checking rasberries
+[27-Apr-2017 16:28:03 UTC] checking  oranges
+[27-Apr-2017 16:28:03 UTC] Adding  oranges
+[27-Apr-2017 16:28:03 UTC] checking  yogurt
+[27-Apr-2017 16:28:03 UTC] checking tea
+[27-Apr-2017 16:28:03 UTC] checking dunkin donuts coffee
+[27-Apr-2017 16:28:03 UTC] checking kefir
+[27-Apr-2017 16:28:03 UTC] checking earth balance
+[27-Apr-2017 16:28:03 UTC] checking probiotics
+[27-Apr-2017 16:28:03 UTC] Adding probiotics
+[27-Apr-2017 16:28:03 UTC] checking OJ
+[27-Apr-2017 16:28:03 UTC] checking vegibergers
+[27-Apr-2017 16:28:03 UTC] checking  avocados
+[27-Apr-2017 16:28:03 UTC] Adding  avocados
+[27-Apr-2017 16:28:03 UTC] checking cholula
+[27-Apr-2017 16:28:03 UTC] checking dijonaise
+[27-Apr-2017 16:28:03 UTC] checking avocados
+[27-Apr-2017 16:28:03 UTC] checking oranges
+[27-Apr-2017 16:28:03 UTC] checking catlitter
+[27-Apr-2017 16:28:03 UTC] checking hotdogs
+[27-Apr-2017 16:28:03 UTC] checking raisins
+[27-Apr-2017 16:28:03 UTC] checking Hairdye
+[27-Apr-2017 16:28:03 UTC] checking chocolate
+[27-Apr-2017 16:28:03 UTC] checking pomegranate
+[27-Apr-2017 16:28:03 UTC] checking catfood
+[27-Apr-2017 16:28:03 UTC] Adding catfood
+[27-Apr-2017 16:28:03 UTC] checking HairConditioner
+[27-Apr-2017 16:28:03 UTC] checking toothpaste
+[27-Apr-2017 16:28:03 UTC] checking granola
+[27-Apr-2017 16:28:03 UTC] checking deoderant
+[27-Apr-2017 16:28:03 UTC] Adding deoderant
+[27-Apr-2017 16:28:03 UTC] checking honey
+[27-Apr-2017 16:28:03 UTC] checking bananas
+[27-Apr-2017 16:28:03 UTC] Adding bananas
+[27-Apr-2017 16:28:03 UTC] checking test
+[27-Apr-2017 16:28:03 UTC] Adding test
+[27-Apr-2017 16:28:03 UTC] checking floss
+[27-Apr-2017 16:28:03 UTC] checking soups
+[27-Apr-2017 16:28:03 UTC] checking cookies
+[27-Apr-2017 16:28:03 UTC] checking phonebatt
+[27-Apr-2017 16:28:03 UTC] checking mushrooms
+[27-Apr-2017 16:28:03 UTC] checking Sugar
+[27-Apr-2017 16:28:03 UTC] checking milk milk
+[27-Apr-2017 16:28:03 UTC] Adding milk milk
+[27-Apr-2017 16:28:03 UTC] checking englishmuffin
+[27-Apr-2017 16:28:03 UTC] checking asparagus
+[27-Apr-2017 16:28:03 UTC] checking cucumbers
+[27-Apr-2017 16:28:03 UTC] checking facial tissue
+[27-Apr-2017 16:28:03 UTC] checking chicken
+[27-Apr-2017 16:28:03 UTC] checking bread crumbs
+[27-Apr-2017 16:28:03 UTC] checking Cheese
+[27-Apr-2017 16:28:03 UTC] checking Green veggies
+[27-Apr-2017 16:28:03 UTC] done
+[27-Apr-2017 19:59:22 UTC] starting reset.php
+[27-Apr-2017 19:59:38 UTC] starting reset_action.php
+[27-Apr-2017 19:59:38 UTC] xx
+[27-Apr-2017 19:59:38 UTC] yy
+[27-Apr-2017 20:06:23 UTC] starting reset_action.php
+[27-Apr-2017 20:06:23 UTC] xx
+[27-Apr-2017 20:06:23 UTC] yy
+[27-Apr-2017 20:06:35 UTC] starting reset_action.php
+[27-Apr-2017 20:06:35 UTC] xx
+[27-Apr-2017 20:06:35 UTC] yy
+[27-Apr-2017 20:08:32 UTC] starting reset_action.php
+[27-Apr-2017 20:08:32 UTC] xx
+[27-Apr-2017 20:08:32 UTC] yy
+[27-Apr-2017 20:14:52 UTC] starting reset_action.php
+[27-Apr-2017 20:14:52 UTC] xxx
+[27-Apr-2017 20:14:52 UTC] yyy
+[27-Apr-2017 20:18:51 UTC] starting reset_action.php
+[27-Apr-2017 20:18:51 UTC] xxx
+[27-Apr-2017 20:18:51 UTC] yyy
+[27-Apr-2017 20:26:46 UTC] starting reset_action.php
+[27-Apr-2017 20:26:46 UTC] xxx
+[27-Apr-2017 20:26:46 UTC] yyy
+[27-Apr-2017 20:38:05 UTC] starting reset_action.php
+[27-Apr-2017 20:38:05 UTC] a
+[27-Apr-2017 20:38:05 UTC] b
+[27-Apr-2017 22:19:21 UTC] starting reset.php

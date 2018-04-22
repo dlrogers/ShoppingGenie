@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="37dp"
+    android:backgroundTintMode="src_in">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true">
+       <com.symdesign.smartlist.DeleteButton
+            android:id="@+id/delete_box"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="centerInside"
+            android:src="@drawable/trash"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="end"
+        android:orientation="horizontal"
+        android:layout_alignParentRight="true">
+        <com.symdesign.smartlist.NameBox
+            android:id="@+id/name"
+            android:layout_gravity="center_vertical"
+            android:inputType="textNoSuggestions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:textSize="22sp"
+            android:paddingTop="2dp"
+            android:textColor="#ffffff"
+            android:background="@layout/item_bk"/>
+        <com.symdesign.smartlist.ChkBox
+            android:id="@+id/suggest_cbox"
+            android:layout_gravity="center_vertical"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/btn_check_on"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:baseline="25dp"
+            android:paddingLeft="10dp"
+            android:maxHeight="55dp"  android:maxWidth="65dp"
+            android:focusable="false"/>
+    </LinearLayout>
+
+</RelativeLayout>
