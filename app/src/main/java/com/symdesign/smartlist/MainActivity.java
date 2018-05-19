@@ -733,14 +733,16 @@ public class MainActivity extends AppCompatActivity implements AdminDialog.Admin
         listCursor = db.query("'"+MainActivity.currList+"'", cols, "flags=1 or flags=5", null, "", "", null);
         itemsList.clear();
         int n = 0;
-        long time_secs = System.currentTimeMillis()/1000;
+        long time_sec = MainActivity.getTime();
         for (listCursor.moveToFirst(); !listCursor.isAfterLast(); listCursor.moveToNext()) {
             logF("list name = %s, flags = %d,_id = %d",
                     listCursor.getString(1),listCursor.getInt(2),listCursor.getInt(0));
             float ratio = Math.abs(((float) (getTime()-listCursor.getLong(3)))/((float) listCursor.getLong(4)));
-            if((time_secs-listCursor.getLong(3))>max_time){
+            long la = listCursor.getLong(4);
+            int et = (int) (time_sec-listCursor.getLong(3));    // elapsed time
+            if(et > 2*la){      // If elapsed time is greater than twice avg, set avg to elapsed time
                 values.clear();
-                values.put("flags",2|listCursor.getInt(2));
+                values.put("last_avg",et);
                 db.update("'"+currList+"'", values, "_id=" + listCursor.getInt(0), null);
             } else {
                 itemsList.add(new Item(listCursor.getLong(0), listCursor.getString(1),
@@ -761,10 +763,12 @@ public class MainActivity extends AppCompatActivity implements AdminDialog.Admin
         for (suggestCursor.moveToFirst(); !suggestCursor.isAfterLast(); suggestCursor.moveToNext()) {
             logF("suggest name = %s, flags = %d, id = %d",
                     suggestCursor.getString(1),suggestCursor.getInt(2),suggestCursor.getInt(0));
+            long la = suggestCursor.getLong(4);
+            int et = (int) (time_sec-suggestCursor.getLong(3));    // elapsed time
             float ratio = Math.abs(((float) (getTime()-suggestCursor.getLong(3)))/((float) suggestCursor.getLong(4)));
-            if((time_secs-suggestCursor.getLong(3))>max_time){
+            if(et > 2*la){
                 values.clear();
-                values.put("flags",2|suggestCursor.getInt(2));
+                values.put("last_avg",et);
                 db.update("'"+currList+"'", values, "_id=" + suggestCursor.getInt(0), null);
             } else {
                 itemsSuggest.add(new Item(suggestCursor.getLong(0), suggestCursor.getString(1),
